@@ -1,4 +1,4 @@
-# NostalgiaForInfinity
+# Freqtrade-NostalgiaForInfinity
 
 Trading strategy for the [Freqtrade](https://www.freqtrade.io) crypto bot. For backtesting results, check out the comments in the individual [commit](https://github.com/iterativv/NostalgiaForInfinity/commits/main) page.
 
